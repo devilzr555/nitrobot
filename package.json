@@ -1,0 +1,48 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "anime-scraper": "^3.1.1",
+    "ascii-table": "^0.0.9",
+    "canvas-senpai": "^0.1.6",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.3.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.2",
+    "something-random-on-discord": "^0.0.1",
+    "weather-js": "^2.0.0",
+    "imdb-api": "^4.2.0",
+    "snekfetch": "^4.0.4",
+    "parse-ms": "^2.1.0",
+    "discord.js-commando": "^0.10.0",
+    "cpu-stat": "^2.0.1",
+    "cpu-stats": "^1.0.0",
+    "moment-duration-format": "^2.3.2",
+    "urban.js": "^2.4.3",
+    "google-play-scraper": "^8.0.2",
+    "discord-uno": "^2.0.17",
+    "alexa-bot-api": "^0.1.3",
+    "tiktok-search": "^2.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
